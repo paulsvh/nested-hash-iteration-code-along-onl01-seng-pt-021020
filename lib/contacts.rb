@@ -23,4 +23,5 @@ def remove_strawberry(contacts)
         end
       end
     end
-  endend
+  end
+end
